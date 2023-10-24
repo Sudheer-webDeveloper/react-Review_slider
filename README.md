@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # react-Review_slider
 # React-Accordion
 # React-Sort-By-Category
+# React-Sort-By-Category
